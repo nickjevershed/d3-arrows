@@ -1,6 +1,6 @@
 {
   "name": "d3-arrows",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Helper functions to generate curved and straight labels for d3 svg graphics",
   "main": "index.js",
   "scripts": {
