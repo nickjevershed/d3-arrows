@@ -1,0 +1,25 @@
+{
+  "name": "d3-arrows",
+  "version": "1.0.0",
+  "description": "Helper functions to generate curved and straight labels for d3 svg graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickjevershed/d3-arrows.git"
+  },
+  "keywords": [
+    "d3",
+    "svg",
+    "labels",
+    "arrows"
+  ],
+  "author": "nickevershed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickjevershed/d3-arrows/issues"
+  },
+  "homepage": "https://github.com/nickjevershed/d3-arrows#readme"
+}
