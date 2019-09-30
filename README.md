@@ -2,7 +2,7 @@
 
 # d3-arrows
 
-## Helper functions for making curved labels for d3 svg graphics
+### Helper functions for making curved labels for d3 svg graphics
 
 ## Installing
 
@@ -14,6 +14,8 @@ d3-arrows exports a function called **addLabel**. This takes a single argument w
 
 The **radius**, **largeArcFlag** and **sweepFlag** properties are optional. 
 
+Example use:
+
 ```js
 addLabel({"el":svg,
 	"id":"denison",
@@ -24,3 +26,6 @@ addLabel({"el":svg,
 	"text":"Fort Denison"
 });
 ```
+
+
+![A label for Fort Denison in Sydney](d3-arrows.png "An example arrow")
