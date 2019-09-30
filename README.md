@@ -16,11 +16,11 @@ The **radius**, **largeArcFlag** and **sweepFlag** properties are optional.
 
 ```js
 addLabel({"el":svg,
-			"id":"denison",
-			"targetX":projection([151.2,-33.9])[0],
-			"targetY":projection([151.2,-33.9])[1],
-			"sourceX":projection([154.21,-36.09])[0],
-			"sourceY":projection([154.21,-36.09])[1],
-			"text":"Fort Denison"
-			});
+	"id":"denison",
+	"targetX":projection([151.2,-33.9])[0],
+	"targetY":projection([151.2,-33.9])[1],
+	"sourceX":projection([154.21,-36.09])[0],
+	"sourceY":projection([154.21,-36.09])[1],
+	"text":"Fort Denison"
+});
 ```
